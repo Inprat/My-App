@@ -1,0 +1,12 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Python files should use LF
+*.py text eol=lf
+
+# Other common text files
+*.md text
+*.txt text
+*.yml text
+*.yaml text
+*.json text
